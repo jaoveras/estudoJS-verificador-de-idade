@@ -1,0 +1,21 @@
+body{
+    color: white;
+    text-align: center;
+    font-family: normal Arial, Helvetica, sans-serif;
+    background: #41a6ff;
+}
+
+main{
+    text-align: left;
+    color: black;
+    border-radius: 20px;
+    background-color: aliceblue;
+    padding: 0.5rem 1rem;
+    width: 60%;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.37);
+}
+
+.container-resposta img{
+    border-radius: 150px;
+}
